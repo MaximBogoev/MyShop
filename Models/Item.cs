@@ -1,3 +1,4 @@
+using System;
 namespace MyShop.Models
 {
     public class Item

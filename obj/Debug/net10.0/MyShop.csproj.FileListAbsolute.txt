@@ -29,3 +29,8 @@ C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\MySho
 C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\ref\MyShop.dll
 C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\MyShop.RazorAssemblyInfo.cache
 C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\MyShop.RazorAssemblyInfo.cs
+C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\bin\Debug\net10.0\MyShop.staticwebassets.runtime.json
+C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\scopedcss\projectbundle\MyShop.bundle.scp.css
+C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\compressed\q6ttkmg89c-{0}-gpp6c45m5j-gpp6c45m5j.gz
+C:\Users\ma-ks\OneDrive\Desktop\Web Applikasjoner\MyShop\obj\Debug\net10.0\compressed\upkjr4vnqj-{0}-gpp6c45m5j-gpp6c45m5j.gz
